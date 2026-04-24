@@ -177,8 +177,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Syed Muqeeth Omer Ahmed**
-GenAI Builder
+**Syed Mubashir**
 
 ---
 
