@@ -4,13 +4,6 @@
 
 ---
 
-## 🔗 Live Links
-
-🚀 **Live App (Streamlit Cloud)**
-👉 https://intelligent-ai-news-scraper-generator-muqeethomer.streamlit.app/
-
-💻 **GitHub Repository**
-👉 https://github.com/SyedMuqeeth23/Intelligent-AI-News-Scraper-Generator
 
 ---
 
