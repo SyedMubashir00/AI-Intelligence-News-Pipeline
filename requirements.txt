@@ -1,0 +1,23 @@
+# Core LLM & LangChain
+langchain==1.2.15
+langchain-openai==1.1.13
+langchain-core==1.2.29
+langchain-community==0.4.1
+langchain-classic==1.0.3
+langgraph==1.1.6
+openai==2.31.0
+
+# Web & RSS
+feedparser==6.0.12
+requests==2.33.1
+
+# Streamlit UI & charts
+streamlit==1.56.0
+watchdog>=6.0.0
+plotly==6.7.0
+pandas>=2.0.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+
+# Utilities
+python-dotenv==1.2.2
